@@ -27,7 +27,6 @@
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
-    <dependency id="cordova-plugin-app-event" />
 
     <!-- info -->
     <info>
